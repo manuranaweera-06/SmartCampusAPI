@@ -1,0 +1,36 @@
+# Maven
+
+target/
+
+# Compiled files
+
+*.class
+
+# Logs
+
+*.log
+
+# Package files
+
+*.jar
+*.war
+
+# NetBeans specific
+
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IDEs
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
